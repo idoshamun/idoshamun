@@ -6,14 +6,14 @@ on:
     branches:
       - main
   schedule:
-    - cron: "31 0 * * *"
+    - cron: "31 */5 * * *"
 
 jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.3
+        uses: dailydotdev/action-devcard@2.0.4
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
