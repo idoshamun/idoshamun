@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: Recent bookmarks
+          comment_tag_name: BOOKMARKS
           feed_list: ${{ secrets.BOOKMARKS_URL }}
