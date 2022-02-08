@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  daily.dev-bookmarks:
+  bookmarks:
     name: Update this repo's README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
     steps:
