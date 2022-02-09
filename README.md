@@ -2,7 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Turbocharge your Heroku Apps with New Turboku](https://app.daily.dev/posts/Y1gi4HCZt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Caching System Stability](https://app.daily.dev/posts/RLcfyCA8O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Functional Programming in Elixir with Witchcraft](https://app.daily.dev/posts/YcWeZFJ8_?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [DoorDash&#39;s Migration from Python to Kotlin](https://app.daily.dev/posts/QAcLbXhEZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building A Data Layer for Microservices With GraphQL And StepZen](https://app.daily.dev/posts/crD6_HGes?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
