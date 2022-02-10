@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Data pipeline asset management with Dataflow](https://app.daily.dev/posts/ciqT3nJYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Building an adaptive favicon](https://app.daily.dev/posts/qHDxdnnC-?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [The McClusky Curve - Viral vs Evergreen Content](https://app.daily.dev/posts/zGLf9o_OF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Introducing GraphQL Federation to a Microservices Architecture](https://app.daily.dev/posts/T-wecg2b6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Caching System Stability](https://app.daily.dev/posts/RLcfyCA8O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Functional Programming in Elixir with Witchcraft](https://app.daily.dev/posts/YcWeZFJ8_?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [DoorDash&#39;s Migration from Python to Kotlin](https://app.daily.dev/posts/QAcLbXhEZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Building A Data Layer for Microservices With GraphQL And StepZen](https://app.daily.dev/posts/crD6_HGes?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
