@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [How To Build a [Counter with Elixir, Phoenix, LiveView and Tailwind CSS] | No Javascript](https://app.daily.dev/posts/vB4qnBIU7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Plugins in Elixir Applications](https://app.daily.dev/posts/FUmS8gmVS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building Self-driving Kafka clusters using open source components](https://app.daily.dev/posts/Q15mXrQRr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Do: Elixir, Functional Fundamentals](https://app.daily.dev/posts/Oh6aGN5ZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Unit testing in Elixir](https://app.daily.dev/posts/st_Bt8akN?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Data pipeline asset management with Dataflow](https://app.daily.dev/posts/ciqT3nJYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
