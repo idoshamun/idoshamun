@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Reconciliation in microservices](https://app.daily.dev/posts/rmxNLZ1WP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Delightful React File/Directory Structure](https://app.daily.dev/posts/yQT5B45VL?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Design Better APIs](https://app.daily.dev/posts/6xsJVXcgT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Upgrading Next.js for instant performance improvements – Vercel](https://app.daily.dev/posts/TyOzDiSdr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Airbnb&#39;s Architecture](https://app.daily.dev/posts/ae_j9dt9O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Elixir OTP and CockroachDB](https://app.daily.dev/posts/C6LBW6yDF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
