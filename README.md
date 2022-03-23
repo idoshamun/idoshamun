@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Fast Indexing for Data Streams](https://app.daily.dev/posts/FrLPCJ0w_?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Running a safe database migration using Postgres](https://app.daily.dev/posts/GOXJyiR5h?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Using Ecto.Multi and Phoenix.PubSub to update Phoenix Liveview](https://app.daily.dev/posts/DSpMZ_64g?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Redis Delivers RedisJSON 2.0, a Fast, Flexible Document Database to Create Dynamic Digital Experiences](https://app.daily.dev/posts/376szpvhs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Create Technical Conceptual Diagrams](https://app.daily.dev/posts/fBF_JuD0T?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Elixir &amp; Phoenix Free Crash Course](https://app.daily.dev/posts/Zk-3opD5G?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Building robust distributed systems](https://app.daily.dev/posts/QUb46y__2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
