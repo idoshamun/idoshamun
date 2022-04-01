@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [The Challenge of Scaling WebSockets](https://app.daily.dev/posts/JrcymHAxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Running a safe database migration using Postgres](https://app.daily.dev/posts/GOXJyiR5h?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Using Ecto.Multi and Phoenix.PubSub to update Phoenix Liveview](https://app.daily.dev/posts/DSpMZ_64g?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Elixir &amp; Phoenix Free Crash Course](https://app.daily.dev/posts/Zk-3opD5G?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building robust distributed systems](https://app.daily.dev/posts/QUb46y__2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Server Side Rendering at Scale](https://app.daily.dev/posts/CPlatfsfh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
