@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How we upgraded our 4 TB main application Postgres database](https://app.daily.dev/posts/0nfxJ1Qe2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [StashQL: Efficiently Update and Cache Your GraphQL Queries](https://app.daily.dev/posts/6TulakkO3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Subdomain based SaaS with Phoenix - Part 1](https://app.daily.dev/posts/3Xr05nuS57?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Transitional Architecture](https://app.daily.dev/posts/i4u4RD9wV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Netflix Content Engineering makes a federated graph searchable](https://app.daily.dev/posts/0CHAYk5-D?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Protect your AWS workloads using Elastic Security](https://app.daily.dev/posts/v7jCr0dph?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
