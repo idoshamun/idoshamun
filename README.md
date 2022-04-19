@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Rapid Event Notification System at Netflix](https://app.daily.dev/posts/S_QXnhCTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [How Netflix Content Engineering makes a federated graph searchable](https://app.daily.dev/posts/0CHAYk5-D?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Online Pharmacy App Development](https://app.daily.dev/posts/QPwOZFe2z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Lyft stores the data powering their ML models](https://app.daily.dev/posts/Eoima7CMA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How we upgraded our 4 TB main application Postgres database](https://app.daily.dev/posts/0nfxJ1Qe2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [StashQL: Efficiently Update and Cache Your GraphQL Queries](https://app.daily.dev/posts/6TulakkO3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Subdomain based SaaS with Phoenix - Part 1](https://app.daily.dev/posts/3Xr05nuS57?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
