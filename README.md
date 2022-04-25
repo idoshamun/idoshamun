@@ -4,7 +4,7 @@
 <!-- BOOKMARKS:START -->
 - [Loosely Coupled Phoenix Contexts](https://app.daily.dev/posts/PwCVjVmE6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [API Design Best Practices for long-running Operations: GraphQL vs REST](https://app.daily.dev/posts/afpFpdI7o?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Rapid Event Notification System at Netflix](https://app.daily.dev/posts/S_QXnhCTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Online Pharmacy App Development](https://app.daily.dev/posts/QPwOZFe2z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Lyft stores the data powering their ML models](https://app.daily.dev/posts/Eoima7CMA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Subdomain based SaaS with Phoenix - Part 1](https://app.daily.dev/posts/3Xr05nuS57?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
