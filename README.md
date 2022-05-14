@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How Airbnb does Continuous Delivery](https://app.daily.dev/posts/ERif34txW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Powering real-time data analytics with Druid at Twitter](https://app.daily.dev/posts/7NbiSXH-t?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Microservices Architecture | Ultimate Guide &amp; Tutorial](https://app.daily.dev/posts/XGQELR20f?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Continuous Load Testing](https://app.daily.dev/posts/D0aL5n-kd?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Infinite Scroll with LiveView](https://app.daily.dev/posts/_nfVTSZHd?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Loosely Coupled Phoenix Contexts](https://app.daily.dev/posts/PwCVjVmE6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
