@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How Benchling changed their Search Architecture](https://app.daily.dev/posts/OD8Wter4y?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Boost your test coverage with Elixir](https://app.daily.dev/posts/e6emt70oK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [ThinkingElixir 100: 10 Years of Elixir with José Valim](https://app.daily.dev/posts/TXu6nJp4W?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Using parcel as the build tool for Phoenix](https://app.daily.dev/posts/Aa_ULKmt9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Clubhouse recommends Rooms](https://app.daily.dev/posts/GD6PM-GyC?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Reliability Engineering at BlackRock](https://app.daily.dev/posts/iROFWpDrN?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
