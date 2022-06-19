@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [How We Built Infrastructure to Run User Forecasts at Spotify - Spotify Engineering](https://app.daily.dev/posts/oBPkyEfDL?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building FEED: the tech behind the app — Martian Chronicles](https://app.daily.dev/posts/GjAlUoyVN?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Under the hood: Meta’s cloud gaming infrastructure](https://app.daily.dev/posts/lc1nryttD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [A Livebook notebook for Elixir Code Smells](https://app.daily.dev/posts/qSLQenRfp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Shipping to Production](https://app.daily.dev/posts/S68qnmOkU?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [José Valim, creator of Elixir and form Rails core contributor](https://app.daily.dev/posts/W8ZzO4HSq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
