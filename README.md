@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Write Better Commits, Build Better Projects](https://app.daily.dev/posts/q7m-Vt0h1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Open Source GraphQL CDN / Edge Cache with Cloudflare, Fastly, and Fly.io](https://app.daily.dev/posts/pn1TQWTme?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Supergraph: One GraphQL Schema to Rule Them All](https://app.daily.dev/posts/tJhuNGrIi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [5 Elixir Libraries I Install on Every New Project](https://app.daily.dev/posts/Lj0slkyD9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Remote development with Rust on fly.io](https://app.daily.dev/posts/alKOGIlhn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Under the hood: Meta’s cloud gaming infrastructure](https://app.daily.dev/posts/lc1nryttD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
