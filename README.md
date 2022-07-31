@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Authentication for NextJS with GraphQL &amp; REST APIs and SSR &lpar;Server Side Rendering&rpar;](https://app.daily.dev/posts/XfqpLjpWg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Programming languages endorsed for server-side use at Meta](https://app.daily.dev/posts/3KujA7o_s?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [What is eBPF, anyway, and why should Kubernetes admins care?](https://app.daily.dev/posts/aahCX43at?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to quickly &lpar;and successfully&rpar; onboard engineers](https://app.daily.dev/posts/ynjrVb8yu?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Kubernetes, Networking, and Finding the VMware of Cloud Native](https://app.daily.dev/posts/nSbpztZYJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How to Write a Functor in Elixir](https://app.daily.dev/posts/wsDFXqZuk?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
