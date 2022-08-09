@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Why your daily stand-ups don&#39;t work and how to fix them](https://app.daily.dev/posts/AZ_VyIeUi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Failure Is an Option: How to Stay on Top of K8s Container Events](https://app.daily.dev/posts/KYLYXPyB0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Twitch Processes Millions of Video Streams](https://app.daily.dev/posts/j1Q6PkaVa?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [EP18: Build a chat application. Also...](https://app.daily.dev/posts/gQNRVYBek?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [GitLab onboarding and machine management](https://app.daily.dev/posts/QpaahgY7m?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [The Demotion of Scrum Into Waterfall](https://app.daily.dev/posts/P3vvWXmdB?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Data Mesh — A Data Movement and Processing Platform @ Netflix](https://app.daily.dev/posts/J36Th5hr0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
