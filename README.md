@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://app.daily.dev/posts/UrAatdHSj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Blog - Next.js 13](https://app.daily.dev/posts/gCX_wf7Qz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Pulumi+Kubernetes: New Flux Integration and Inline Programs](https://app.daily.dev/posts/adFbRcDVj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Content Discovery at Scale with Hexagons and Elasticsearch at DoorDash](https://app.daily.dev/posts/a8-7WiM2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Apollo GraphQL Introduces GraphOS, a Platform to Build, Connect and Scale Any Supergraph](https://app.daily.dev/posts/Z5we-7t3v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Prevent double-bookings with Exclusion Constraints in Postgres using Ecto](https://app.daily.dev/posts/JrcnCjciV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
