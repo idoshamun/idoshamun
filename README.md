@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Alias, import, require and use in Elixir - complete guide with use cases.](https://app.daily.dev/posts/9d6pGngIS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Avoid test setup pollution &lpar;and 4 problems it creates&rpar;](https://app.daily.dev/posts/Whqnlsagr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How We Use Terraform At Slack](https://app.daily.dev/posts/iqcErUs5l?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Events: Fat or Thin](https://app.daily.dev/posts/tO-PRsscd?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Content Discovery at Scale with Hexagons and Elasticsearch at DoorDash](https://app.daily.dev/posts/a8-7WiM2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Apollo GraphQL Introduces GraphOS, a Platform to Build, Connect and Scale Any Supergraph](https://app.daily.dev/posts/Z5we-7t3v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Prevent double-bookings with Exclusion Constraints in Postgres using Ecto](https://app.daily.dev/posts/JrcnCjciV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
