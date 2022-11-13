@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Netflix Builds a Custom High-Throughput Priority Queue Backed by Redis, Kafka and Elasticsearch](https://app.daily.dev/posts/FfZBW62nR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Tinder Built Their Own API Gateway](https://app.daily.dev/posts/Ka_Bh_Tgj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Page transitions with Phoenix Liveview](https://app.daily.dev/posts/7cjIJDkGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Snapchat&#39;s Shift to Microservices](https://app.daily.dev/posts/fMhjbChtH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Alias, import, require and use in Elixir - complete guide with use cases.](https://app.daily.dev/posts/9d6pGngIS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Avoid test setup pollution &lpar;and 4 problems it creates&rpar;](https://app.daily.dev/posts/Whqnlsagr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
