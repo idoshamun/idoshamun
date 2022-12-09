@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Simplifying A/B/n Testing of Backend Services](https://app.daily.dev/posts/P_3k8Os3M?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Announcing Bumblebee: GPT2, Stable Diffusion, and more in Elixir](https://app.daily.dev/posts/yMG4JnSR3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Introducing a product delivery culture at Etsy](https://app.daily.dev/posts/qrkraIxcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Phoenix LiveView Crash Course](https://app.daily.dev/posts/2p7IZKdwl?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://app.daily.dev/posts/Ax3tIeHwA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [LiveMatch: Building a Real-Time App for Soccer with Phoenix LiveView](https://app.daily.dev/posts/aoXJD_nI6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
