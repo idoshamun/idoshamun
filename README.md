@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How to Cache Locally in Elixir with Nebulex](https://app.daily.dev/posts/HGZ-IUfYs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Lessons learned: how I’d rebuild a social web app like Twitter today • Paul Armstrong](https://app.daily.dev/posts/XO_n-U3au?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How I deploy Phoenix apps](https://app.daily.dev/posts/BlQ903HIO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Materialized Views: An alternative to full-blown cache systems – Distributed Computing Musings](https://app.daily.dev/posts/coQ2D7d-Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [ElixirConf 2022 Productivity Takeaways](https://app.daily.dev/posts/daBZ88qt5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Elixir, OpenTelemetry, and the Infamous N+1](https://app.daily.dev/posts/pS0NcNSB2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
