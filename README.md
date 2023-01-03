@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Parser Combinators in Elixir: A Deeper Dive](https://app.daily.dev/posts/czJPai9Pu?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Principles of Elixir Application Development](https://app.daily.dev/posts/HjB2yqFiA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [dwyl/phoenix-chat-example: 💬 The Step-by-Step Beginners Tutorial for Building, Testing &amp; Deploying a Chat app in Phoenix 1.6.15 [Latest] 🚀](https://app.daily.dev/posts/CiW6fSFGG?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Transactions in distributed systems](https://app.daily.dev/posts/Uh23djkAz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Restrict Ecto Queries and prevent PII Leaks](https://app.daily.dev/posts/43c0f00op?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Heyya Snap It Like A Polaroid](https://app.daily.dev/posts/92NnTGY7v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
