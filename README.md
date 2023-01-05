@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [How WeChat Stores One Trillion Social Connections with NebulaGraph Database](https://app.daily.dev/posts/Fa4OzvHvP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Elixir/Phoenix Security: How attackers bypass IP based rate limiting](https://app.daily.dev/posts/sRDP4gJ35?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Elixir/Phoenix Security: Denial of Service Due to Atom Exhaustion](https://app.daily.dev/posts/cEqPemerT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Swoosh Gallery](https://app.daily.dev/posts/zQCEnRv7a?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Limiting Concurrency in Elixir Using Registry](https://app.daily.dev/posts/ar8YFiqFo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [How and Why We Chose Elixir at Metrist](https://app.daily.dev/posts/n56lyB039?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Parser Combinators in Elixir: A Deeper Dive](https://app.daily.dev/posts/czJPai9Pu?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Principles of Elixir Application Development](https://app.daily.dev/posts/HjB2yqFiA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
