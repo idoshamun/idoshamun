@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [What&#39;s new in Livebook 0.8?](https://app.daily.dev/posts/C0AAi3O9p?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [GraphQL vs REST for Elixir Devs](https://app.daily.dev/posts/NhRWo9xRY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Async Processing in LiveView](https://app.daily.dev/posts/V1CkTxe1Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Exploring Figma&#39;s Self Serve Forecast Model](https://app.daily.dev/posts/6BCKhwopA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How we &lpar;almost :&rpar;&rpar; achieve End-to-End Exactly-Once processing with Flink](https://app.daily.dev/posts/nxog8NcVR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Data Mesh Accelerate Workshop](https://app.daily.dev/posts/rpCo2JQPm?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
