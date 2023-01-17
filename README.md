@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Distributed Caching on Cloud](https://app.daily.dev/posts/Aho614gqa?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Awesome Elixir Newsletter - Issue 345, Jan 05, 2023](https://app.daily.dev/posts/lfHaVwxXw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Common Commands to Start New LiveView Project](https://app.daily.dev/posts/3d0LG3nkZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [You can always go faster &lpar;if you know where to risk it&rpar;](https://app.daily.dev/posts/lcyYX4mtp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [WAL Mode in LiteFS](https://app.daily.dev/posts/8GSv1lDHY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [web and mobile app development](https://app.daily.dev/posts/uBRiYENJ7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
