@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [What’s a “Listening Personality”? - Spotify Engineering](https://app.daily.dev/posts/43Cxlt0GV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Why We Chose Elixir Part 2: Elixir and the CELP Stack](https://app.daily.dev/posts/BPC9FGZNV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Stenography and Elixir](https://app.daily.dev/posts/iRP7qJWZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [🎉 Announcing Elixir Vulnerability Scanning &amp; Management 🎉](https://app.daily.dev/posts/vw50lbQaw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Distributed Caching on Cloud](https://app.daily.dev/posts/Aho614gqa?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Awesome Elixir Newsletter - Issue 345, Jan 05, 2023](https://app.daily.dev/posts/lfHaVwxXw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
