@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Guiding principles for build vs. buy decisions](https://app.daily.dev/posts/3s9B2Hc33?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building an Embeddable Web App with LiveState, Elixir, and Lit](https://app.daily.dev/posts/g5xh9phfW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [What’s a “Listening Personality”? - Spotify Engineering](https://app.daily.dev/posts/43Cxlt0GV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Why We Chose Elixir Part 2: Elixir and the CELP Stack](https://app.daily.dev/posts/BPC9FGZNV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Stenography and Elixir](https://app.daily.dev/posts/iRP7qJWZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [🎉 Announcing Elixir Vulnerability Scanning &amp; Management 🎉](https://app.daily.dev/posts/vw50lbQaw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
