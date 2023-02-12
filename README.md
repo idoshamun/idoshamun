@@ -2,7 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Scalability is overrated](https://app.daily.dev/posts/I_vsiuVWs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Listen to Databse Changes with Postgres Triggers and Elixir](https://app.daily.dev/posts/eYkRqp4ch?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building an Esports Platform With Elixir](https://app.daily.dev/posts/sMGJeKmmp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Metrics for Measuring User Experience and Performance](https://app.daily.dev/posts/-ggTvDM5j?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Passing Unknown Attributes into Your Component](https://app.daily.dev/posts/y5hRBZ5Mj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
