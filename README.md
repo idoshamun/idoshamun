@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Retrospectives Antipatterns](https://app.daily.dev/posts/CuSQsoAwE?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Livebook inside Hugging Face Spaces](https://app.daily.dev/posts/Emrk7MxEv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [A New Beginning and a New Website](https://app.daily.dev/posts/IVoMHYNo1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [People can read their manager&#39;s mind](https://app.daily.dev/posts/NiSubPj7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Scaling Media Machine Learning at Netflix](https://app.daily.dev/posts/XfPdeS9Ch?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [A Gentle Introduction to CRDTs](https://app.daily.dev/posts/Zma941_uX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
