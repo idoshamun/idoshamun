@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [I felt a relief after reading it but then I realized I might be so damn biased so I thought to share it here to see if we are currently infected in one of these viruses in your opinion?](https://app.daily.dev/posts/RswWyh13z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Some numbers to remember](https://app.daily.dev/posts/jUwpjv4FR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Distributed Systems and AI](https://app.daily.dev/posts/POwifQ2jl?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building a Chat App With LiveView Streams](https://app.daily.dev/posts/lxurgKckZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Better function component tests with ~H](https://app.daily.dev/posts/2LhjIcM34?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Using LiveView&#39;s New Primitives for Accessibility](https://app.daily.dev/posts/58nYpFBF0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
