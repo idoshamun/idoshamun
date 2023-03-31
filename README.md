@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Twitter Recommendation Algorithm](https://app.daily.dev/posts/OU0lBBjan?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Crafting Your Own Static Site Generator Using Phoenix](https://app.daily.dev/posts/CMVXGDkTM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Pulumi Deployments: API-Driven Infrastructure at Scale](https://app.daily.dev/posts/pxfK6ymlz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Distributed Systems and AI](https://app.daily.dev/posts/POwifQ2jl?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building a Chat App With LiveView Streams](https://app.daily.dev/posts/lxurgKckZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Better function component tests with ~H](https://app.daily.dev/posts/2LhjIcM34?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
