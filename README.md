@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [חומר למחשבה](https://app.daily.dev/posts/aLhUPN8Bs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [](https://app.daily.dev/posts/ahPGp3Vlb?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Pretty interesting read](https://app.daily.dev/posts/hGbdUNhOo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Load Testing for 2022 Wrapped - Spotify Engineering](https://app.daily.dev/posts/IV87YONoP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Twitter Recommendation Algorithm](https://app.daily.dev/posts/OU0lBBjan?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Crafting Your Own Static Site Generator Using Phoenix](https://app.daily.dev/posts/CMVXGDkTM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
