@@ -2,6 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Do you agree with this article?](https://app.daily.dev/posts/JvlNzKoSU?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Knowledge Graphs &amp; LLMs: Fine-Tuning Vs. Retrieval-Augmented Generation](https://app.daily.dev/posts/XarMFKmii?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Is Scalable OLTP in the Cloud a Solved Problem? &lpar;CIDR 2023&rpar;](https://app.daily.dev/posts/77Wrxz1rf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Highly Available Transactions: Virtues and Limitations](https://app.daily.dev/posts/HRyWbD4Sg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
@@ -10,5 +11,4 @@
 I&#39;ve found the SCQA format a really useful practice. 
 
 For me, starting with a statement that every one in the audience would be aware of and agree with &lpar;Situation&rpar;, get&#39;s things flowing.](https://app.daily.dev/posts/RDcBFF3Wn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Awesome Elixir Newsletter - Issue 362, May 04, 2023](https://app.daily.dev/posts/uswdqBRGv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
