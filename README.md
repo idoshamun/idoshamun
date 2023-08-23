@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [Comparing Different Vector Embeddings](https://app.daily.dev/posts/eKwgijLdi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [3,000% Performance Increase using Dynamic SQL Generation 🚀](https://app.daily.dev/posts/URfH3A3wx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [ECSx: A New Approach to Game Development in Elixir](https://app.daily.dev/posts/u7jxJRJNt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Dropbox implemented their Image Search feature](https://app.daily.dev/posts/9wkgIznMt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [That&#39;s a good read for those who are moving from development to management positions](https://app.daily.dev/posts/oYbrLxbDF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [How Facebook Keeps Millions of Servers Synced](https://app.daily.dev/posts/1Ho2pWUIH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [The microservice architecture is meant to simplify and accelerate development, but only when done correctly](https://app.daily.dev/posts/VDxO0XXjk?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
