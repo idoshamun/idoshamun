@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Elixir Saves Pinterest $2 Million a Year In Server Costs](https://app.daily.dev/posts/y7stPc759?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Generous, High Fidelity Communication Is the Key to a Safe, Effective Team](https://app.daily.dev/posts/jY7Oixiz1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Comparing Different Vector Embeddings](https://app.daily.dev/posts/eKwgijLdi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Dropbox implemented their Image Search feature](https://app.daily.dev/posts/9wkgIznMt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [That&#39;s a good read for those who are moving from development to management positions](https://app.daily.dev/posts/oYbrLxbDF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How Facebook Keeps Millions of Servers Synced](https://app.daily.dev/posts/1Ho2pWUIH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
