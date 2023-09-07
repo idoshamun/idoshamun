@@ -7,8 +7,8 @@
 And then using LLMs and ChatGPT API it can perform answer generation. So, we get answers on our queries from our data, basically RAG &lpar;Retrieval Augmented Generation&rpar;. 
 
 Looks like a good tool, that I&#39;ll be exploring. Will try to contribute to it in a manner.](https://app.daily.dev/posts/TDzOMa0uJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [langfuse/langfuse: Open source observability and analytics for LLM applications](https://app.daily.dev/posts/ZxXpp26IX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Directly Responsible Individuals](https://app.daily.dev/posts/s4jGvb6oF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [An effective team communicates much like optimized code: with clarity, modularity, and a focus on simplicity.](https://app.daily.dev/posts/6PMzGoA5G?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The Free Lunch of Model Distillation](https://app.daily.dev/posts/D70Ivmemr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Performance &amp; Compensation &lpar;for Eng Execs&rpar;.](https://app.daily.dev/posts/zqvBx6vR5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [How I use AI when blogging and writing](https://app.daily.dev/posts/03ryZOJlv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
