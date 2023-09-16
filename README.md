@@ -2,6 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Asking questions the right way](https://app.daily.dev/posts/uyJ065G2s?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [When MFA isn&#39;t actually MFA](https://app.daily.dev/posts/Mua6ZR2Dn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [You’re barely managing](https://app.daily.dev/posts/plixjh80E?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Elixir’s First Native Development Framework Will Massively Accelerate Development Timelines](https://app.daily.dev/posts/9YlRD1Bn6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
@@ -10,5 +11,4 @@
 And then using LLMs and ChatGPT API it can perform answer generation. So, we get answers on our queries from our data, basically RAG &lpar;Retrieval Augmented Generation&rpar;. 
 
 Looks like a good tool, that I&#39;ll be exploring. Will try to contribute to it in a manner.](https://app.daily.dev/posts/TDzOMa0uJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Directly Responsible Individuals](https://app.daily.dev/posts/s4jGvb6oF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
