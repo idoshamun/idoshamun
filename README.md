@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Is Data Still a Moat?](https://app.daily.dev/posts/T6UAXvUIE?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Solving the Engineering Strategy crisis.](https://app.daily.dev/posts/orJIPMhz3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building a replicated cache in 65 lines using ConCache and Phoenix.PubSub](https://app.daily.dev/posts/dOgWOaapz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Good Enough Abstractions](https://app.daily.dev/posts/fSZjKg5Uv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Do you need a specialized vector database to implement vector search well?](https://app.daily.dev/posts/xvc7cTgXy?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Asking questions the right way](https://app.daily.dev/posts/uyJ065G2s?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
