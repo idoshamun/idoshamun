@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Manage Your Capacity, Not Your Time](https://app.daily.dev/posts/WqZs8Ctys?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Background job queues and priorities may be the wrong path](https://app.daily.dev/posts/QL3qKgRi6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Kickstarting Your Agile Transformation: A Step-by-Step Guide for Executives](https://app.daily.dev/posts/v50iAqNbt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Fabricator: End-to-End Declarative Feature Engineering Platform](https://app.daily.dev/posts/KjRZouHiX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Retrieval Augmented Generation at scale — Building a distributed system for synchronizing and ingesting billions of text embeddings](https://app.daily.dev/posts/HzcrSJjiH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Lessons from Bootstrapped Companies Founded by Software Engineers](https://app.daily.dev/posts/LJH7IHlv1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
