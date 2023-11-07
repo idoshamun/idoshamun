@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Stratechery by Ben Thompson](https://app.daily.dev/posts/QXi2xKDhW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Headless Component: a pattern for composing React UIs](https://app.daily.dev/posts/q7S16H5Xs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Habits of great software engineers](https://app.daily.dev/posts/2CYrgLeYx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Developing leadership styles](https://app.daily.dev/posts/4JH8ZUSs2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Elixir and Phoenix can do it all!](https://app.daily.dev/posts/VvP9H60fb?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [When &quot;letting it crash&quot; is not enough](https://app.daily.dev/posts/sEIHSLiBh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [MMO Architecture: client connections, sockets, threads and connection-oriented servers](https://app.daily.dev/posts/WDDSyfQMn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
