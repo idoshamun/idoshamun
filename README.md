@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Developer Productivity Engineering at Netflix](https://app.daily.dev/posts/zjluAdhC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Why are we still surprised that startups are hard?](https://app.daily.dev/posts/Oj2562xwo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Stratechery by Ben Thompson](https://app.daily.dev/posts/QXi2xKDhW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Headless Component: a pattern for composing React UIs](https://app.daily.dev/posts/q7S16H5Xs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Habits of great software engineers](https://app.daily.dev/posts/2CYrgLeYx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Developing leadership styles](https://app.daily.dev/posts/4JH8ZUSs2?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
