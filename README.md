@@ -5,6 +5,6 @@
 - [“Change Data Capture Breaks Encapsulation”. Does it, though?](https://app.daily.dev/posts/Q7jgLpyR8?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Patterns of Distributed Systems](https://app.daily.dev/posts/KCfNcMOGM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Unpacking Elixir: The Actor Model](https://app.daily.dev/posts/b9AFxatrI?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [My Favorite Gleam Feature](https://app.daily.dev/posts/YK9IIBNpr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Developer Productivity Engineering at Netflix](https://app.daily.dev/posts/zjluAdhC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Why are we still surprised that startups are hard?](https://app.daily.dev/posts/Oj2562xwo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
