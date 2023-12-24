@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Why Should You &lpar;Or Anyone&rpar; Become An Engineering Manager?](https://app.daily.dev/posts/uZzjbq4aU?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Who Should Rule the Product?](https://app.daily.dev/posts/t7P0Zaj1X?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Take Bigger, Bolder Product Bets — Lessons from Slack’s Chief Product Officer](https://app.daily.dev/posts/b6CzmR3BZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Why is building an effective Agile product development process so complicated?](https://app.daily.dev/posts/chGn9ogwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Your GitHub pull request workflow is slowing everyone down](https://app.daily.dev/posts/rts5rg0N0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [“Change Data Capture Breaks Encapsulation”. Does it, though?](https://app.daily.dev/posts/Q7jgLpyR8?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
