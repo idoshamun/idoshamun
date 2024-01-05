@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [&lpar;Personally&rpar; sustainable social media](https://app.daily.dev/posts/ouF7Uwm1G?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Predictability.](https://app.daily.dev/posts/Qy6aWw1PJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The Tiny Stack &lpar;Astro, SQLite, Litestream&rpar;](https://app.daily.dev/posts/8G3HrfNP6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Why is building an effective Agile product development process so complicated?](https://app.daily.dev/posts/chGn9ogwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Your GitHub pull request workflow is slowing everyone down](https://app.daily.dev/posts/rts5rg0N0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [“Change Data Capture Breaks Encapsulation”. Does it, though?](https://app.daily.dev/posts/Q7jgLpyR8?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
