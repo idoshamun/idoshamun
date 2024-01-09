@@ -2,7 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Product Management is broken, a change is coming](https://app.daily.dev/posts/hGaAkvMUY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [CTO shares his love of self-managed teams](https://app.daily.dev/posts/dEY0fA2C7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Postgres.ai / PostgreSQL Consulting / postgres-howtos · GitLab](https://app.daily.dev/posts/Dvrfpn1cr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Askers vs. Guessers](https://app.daily.dev/posts/Xc9T4zOz4?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Holiday side project 2023: Turtles](https://app.daily.dev/posts/BqmRnuQKD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
