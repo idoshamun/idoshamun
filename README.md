@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Join Elixir Validator — Here is a full guide](https://app.daily.dev/posts/LuBlffZ9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Best engineers are focusing on helping others](https://app.daily.dev/posts/QPxAj7Hrn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How we organize and get things done with SERVICEOWNERS](https://app.daily.dev/posts/5eMKUW80z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Learnings from Building and Scaling Ramp’s Growth Engine](https://app.daily.dev/posts/ex7sBC81m?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [CTO shares his love of self-managed teams](https://app.daily.dev/posts/dEY0fA2C7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Postgres.ai / PostgreSQL Consulting / postgres-howtos · GitLab](https://app.daily.dev/posts/Dvrfpn1cr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
