@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [You might not need gradual typing in Elixir](https://app.daily.dev/posts/aU0D0eqRo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [vanna-ai/vanna: 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.](https://app.daily.dev/posts/7HxmA6jkl?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Join Elixir Validator — Here is a full guide](https://app.daily.dev/posts/LuBlffZ9D?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Best engineers are focusing on helping others](https://app.daily.dev/posts/QPxAj7Hrn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How we organize and get things done with SERVICEOWNERS](https://app.daily.dev/posts/5eMKUW80z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Learnings from Building and Scaling Ramp’s Growth Engine](https://app.daily.dev/posts/ex7sBC81m?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
