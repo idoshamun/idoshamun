@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/idoshamun"><img src="https://api.daily.dev/devcards/v2/28849d86070e4c099c877ab6837c61f0.png?type=default&r=auy" width="356" alt="Ido Shamun's Dev Card"/></a>
+<a href="https://app.daily.dev/idoshamun"><img src="https://api.daily.dev/devcards/v2/28849d86070e4c099c877ab6837c61f0.png?type=default&r=auy" align="right" width="400" alt="Ido Shamun's Dev Card"/></a>
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
