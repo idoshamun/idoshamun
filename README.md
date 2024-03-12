@@ -2,11 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Ariel Weinberger posted a concise video on JWT &lpar;JSON Web Tokens&rpar; explained in under 10 minutes. Covering authentication, authorization, refresh tokens, statelessness, and a few more concepts.](https://app.daily.dev/posts/3hBHFKCRJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Elixir, Phoenix LiveView &amp; Erlang: Expert Talk • Sophie DeBenedetto &amp; Andrea Leopardi • GOTO 2023](https://app.daily.dev/posts/ul3em3pHX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Operational Elixir: Scrappy Startups Edition](https://app.daily.dev/posts/9DwX4GDBs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Powerful Caching in Elixir with Cachex](https://app.daily.dev/posts/Gav5CuKso?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Day #29 - Interesting approach to error handling](https://app.daily.dev/posts/PALF9GBo4?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [🚀 Just posted a new video where I talk about something many of us in tech leadership wrestle with but seldom discuss openly: anxiety.
-
-I have anxiety and I run a software business, here&#39;s my story.](https://app.daily.dev/posts/3jvbcjrDC?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
