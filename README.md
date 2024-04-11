@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [How Phoenix LiveView Form Auto-Recovery works](https://app.daily.dev/posts/DJyNY4NZe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Programming - Why Haskell is Great - 10 minutes](https://app.daily.dev/posts/0o5T4d2Mf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How To Stay Focused When Programming](https://app.daily.dev/posts/dZN6FGWGj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Version Controlling and Model Registry in ML Deployments](https://app.daily.dev/posts/teUaVnVdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Mastering CQRS and Event Sourcing in Elixir with Commanded](https://app.daily.dev/posts/LeBrE7oVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [WASM vs Docker Containers vs Kubernetes vs Serverless: The Battle for Cloud Native Supremacy](https://app.daily.dev/posts/HAp5UqzYz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Parallel Request Processing with Elixir and Oban](https://app.daily.dev/posts/zUkU5kPmo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
