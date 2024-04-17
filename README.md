@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Gleam version v1.1 – Gleam](https://app.daily.dev/posts/txhfbxT2U?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Self-hosted is awesome](https://app.daily.dev/posts/vCt2QYTUq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Phoenix LiveView Form Auto-Recovery works](https://app.daily.dev/posts/DJyNY4NZe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Version Controlling and Model Registry in ML Deployments](https://app.daily.dev/posts/teUaVnVdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Mastering CQRS and Event Sourcing in Elixir with Commanded](https://app.daily.dev/posts/LeBrE7oVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [WASM vs Docker Containers vs Kubernetes vs Serverless: The Battle for Cloud Native Supremacy](https://app.daily.dev/posts/HAp5UqzYz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
