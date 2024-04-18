@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Google expands availability of AlloyDB for PostgreSQL to 16 new regions](https://app.daily.dev/posts/sWzJLYZNK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [honojs/hono: Fast, Lightweight, Web-standards](https://app.daily.dev/posts/Dif2cBGM7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Gleam version v1.1 – Gleam](https://app.daily.dev/posts/txhfbxT2U?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Self-hosted is awesome](https://app.daily.dev/posts/vCt2QYTUq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Phoenix LiveView Form Auto-Recovery works](https://app.daily.dev/posts/DJyNY4NZe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Version Controlling and Model Registry in ML Deployments](https://app.daily.dev/posts/teUaVnVdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Mastering CQRS and Event Sourcing in Elixir with Commanded](https://app.daily.dev/posts/LeBrE7oVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
