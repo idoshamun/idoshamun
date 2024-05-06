@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How Facebook Keeps Millions of Servers Synced](https://app.daily.dev/posts/oNuCxvJbX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/AwUrsY2Pj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://app.daily.dev/posts/fsMj0vcSO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [One simple way Apple could improve your sleep habits](https://app.daily.dev/posts/n6tRD7T64?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Dokploy/dokploy: Open Source Alternative to Vercel, Netlify and Heroku.](https://app.daily.dev/posts/heqbIiRYp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Awesome read!](https://app.daily.dev/posts/XeGXqEry7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
