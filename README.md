@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/CGmA605eC?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://app.daily.dev/posts/r16K3TMcD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Phoenix LiveView 1.0-rc is here!](https://app.daily.dev/posts/0gJ79QHO6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Facebook Keeps Millions of Servers Synced](https://app.daily.dev/posts/oNuCxvJbX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/AwUrsY2Pj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [3 Critical Skills You Need to Grow Beyond Senior Levels in Engineering](https://app.daily.dev/posts/fsMj0vcSO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
