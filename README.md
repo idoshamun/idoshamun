@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Orion – From idea to launch in 45 days](https://app.daily.dev/posts/Vo8voUR47?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The first step to improve DevEx in your team](https://app.daily.dev/posts/CpR5c08cF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Google&#39;s secret algorithm exposed via leak to GitHub…](https://app.daily.dev/posts/lbWWCjyjQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Create an Engineering OS for your Organization 🧑‍💻](https://app.daily.dev/posts/eMqPI5SOP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Your Next Backend Should Be Written In...](https://app.daily.dev/posts/EfutJCW0r?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Making a Postgres query 1,000 times faster](https://app.daily.dev/posts/x2EH9CPkK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
