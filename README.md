@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Scalable SMS Realtime Voting with Twilio, Supabase, Hookdeck, and Next.js](https://app.daily.dev/posts/8iDAfyZdN?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Diagnosing demotivation in dev teams - symptoms, reasons &amp; cure](https://app.daily.dev/posts/rGPgMBnDI?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Beware! Anti-patterns in Event-Driven Architecture](https://app.daily.dev/posts/RXs7VrvjF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [The first step to improve DevEx in your team](https://app.daily.dev/posts/CpR5c08cF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Create an Engineering OS for your Organization 🧑‍💻](https://app.daily.dev/posts/eMqPI5SOP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Your Next Backend Should Be Written In...](https://app.daily.dev/posts/EfutJCW0r?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Making a Postgres query 1,000 times faster](https://app.daily.dev/posts/x2EH9CPkK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [That time PostgreSQL said &quot;no thanks, I don&#39;t need your index&quot;](https://app.daily.dev/posts/Q4W6yTHnw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
