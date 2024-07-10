@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [The case against morning yoga, daily routines, and endless meetings](https://app.daily.dev/posts/baaUAyMiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [One Million Checkboxes](https://app.daily.dev/posts/YMkDtcACe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Diagnosing demotivation in dev teams - symptoms, reasons &amp; cure](https://app.daily.dev/posts/rGPgMBnDI?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Create an Engineering OS for your Organization 🧑‍💻](https://app.daily.dev/posts/eMqPI5SOP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Your Next Backend Should Be Written In...](https://app.daily.dev/posts/EfutJCW0r?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Making a Postgres query 1,000 times faster](https://app.daily.dev/posts/x2EH9CPkK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
