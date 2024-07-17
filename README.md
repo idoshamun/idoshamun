@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Irrational Exuberance](https://app.daily.dev/posts/OBIy30kuK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Intel chips can’t possibly be this bad… 100% crash rate?](https://app.daily.dev/posts/PY6ajF0Fs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The case against morning yoga, daily routines, and endless meetings](https://app.daily.dev/posts/baaUAyMiS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Create an Engineering OS for your Organization 🧑‍💻](https://app.daily.dev/posts/eMqPI5SOP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Your Next Backend Should Be Written In...](https://app.daily.dev/posts/EfutJCW0r?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Making a Postgres query 1,000 times faster](https://app.daily.dev/posts/x2EH9CPkK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
