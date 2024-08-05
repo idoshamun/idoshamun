@@ -5,6 +5,6 @@
 - [Improve Growth Mindset in your company with a weekly Experiment Review meeting.](https://app.daily.dev/posts/MxtYGPFKe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Using use in Gleam](https://app.daily.dev/posts/JVASLbjKN?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [AI powered app &lpar;with open-source LLMs like Llama&rpar; with Elixir, Phoenix, LiveView, and TogetherAI](https://app.daily.dev/posts/WxnjVOfjv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Dear AWS, please let me be a cloud engineer again](https://app.daily.dev/posts/2d8SXYwi5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Integrating Sonnet 3.5 with Phoenix Liveview](https://app.daily.dev/posts/rfEdUFOfg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Enhancing Your Elixir Codebase with Gleam](https://app.daily.dev/posts/4QJud2fZb?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
