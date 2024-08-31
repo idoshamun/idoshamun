@@ -2,7 +2,7 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Welcome Lambda! – Gleam](https://app.daily.dev/posts/8L1pxNBL6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Elasticsearch is open source, again](https://app.daily.dev/posts/7O6wqslfa?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [My first experience with Gleam Language](https://app.daily.dev/posts/w9KKVzqlX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [DuckDB-Powered Postgres](https://app.daily.dev/posts/5eHpqYQos?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix by Merlin Webster | Code BEAM](https://app.daily.dev/posts/MmgcnGtC5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
