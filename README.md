@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Giving feedback on something subjective](https://app.daily.dev/posts/PYoaivxxh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How beehiiv Grows: Becoming The Sweetest Newsletter Platform](https://app.daily.dev/posts/SgNNiUs6d?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building a WoW server in Elixir](https://app.daily.dev/posts/mFwYZkj3m?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix by Merlin Webster | Code BEAM](https://app.daily.dev/posts/MmgcnGtC5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [AI powered app &lpar;with open-source LLMs like Llama&rpar; with Elixir, Phoenix, LiveView, and TogetherAI](https://app.daily.dev/posts/WxnjVOfjv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Integrating Sonnet 3.5 with Phoenix Liveview](https://app.daily.dev/posts/rfEdUFOfg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
