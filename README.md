@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [שווה להתעמק בהזדמנות](https://app.daily.dev/posts/wB1CY0VmA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Spotify’s Failed #SquadGoals](https://app.daily.dev/posts/LZiToDyAH?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/xeFUIqIXK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Introducing the analysis tool in Claude.ai](https://app.daily.dev/posts/gxFmAfNFK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Zustand adoption guide: Overview, examples, and alternatives](https://app.daily.dev/posts/VobLXRPxO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [6 years with Gleam](https://app.daily.dev/posts/jp2U3ZMt3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
