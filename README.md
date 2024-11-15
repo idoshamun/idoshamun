@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/oF303sS5j?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The future of Postgres?](https://app.daily.dev/posts/TrtOZCMqq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [🤔🔍 B2C billing is actually harder than B2B billing](https://app.daily.dev/posts/ymtWrmuep?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Talk to Non-Developers?](https://app.daily.dev/posts/sPRge8xBX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [radiate intent — Lee Byron](https://app.daily.dev/posts/wBsQ2MFso?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Embedded Zig with Elixir, Mandelbrot set](https://app.daily.dev/posts/0cDPCfbne?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
