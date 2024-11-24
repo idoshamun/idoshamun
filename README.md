@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Dear friend, you have built a Kubernetes](https://app.daily.dev/posts/fR0rbO1k8?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Video Game Economies are Designed](https://app.daily.dev/posts/X8EixCqzl?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Founders, if you want A+ startup success, do the homework first!—Martian Chronicles, Evil Martians’ team blog](https://app.daily.dev/posts/ZEmafDBkh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Instagram will soon let you reset your recommendation algorithm](https://app.daily.dev/posts/adjHB50rj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to do distributed locking — Martin Kleppmann’s blog](https://app.daily.dev/posts/j2e7pCNZZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [No title](https://app.daily.dev/posts/oF303sS5j?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
