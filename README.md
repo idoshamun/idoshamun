@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [The Engineering Manager](https://app.daily.dev/posts/c4H6KJbDf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Building A Strong Ownership Culture in A Team](https://app.daily.dev/posts/36cHS64gg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [LiveView got braces: a complete guide to Phoenix LiveView v1.0.0&#39;s new curly brace syntax](https://app.daily.dev/posts/PcLqLlo5F?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to deal with difficult conversations?](https://app.daily.dev/posts/Mj0mPhZOI?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [9 Tips for Onboarding Your Elixir Engineer](https://app.daily.dev/posts/jekJiyh8r?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Oh god](https://app.daily.dev/posts/HIQFCWVPh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks?](https://app.daily.dev/posts/MslEg168l?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
