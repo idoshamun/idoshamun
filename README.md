@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [My thoughts on AI and why so many non-devs thinks it&#39;s the new hot stuff](https://app.daily.dev/posts/0M0prbb62?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [AI-Driven Prototyping: v0, Bolt, and Lovable Compared](https://app.daily.dev/posts/c7lMWlzzQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How personalization and recommendations enhance search and discovery](https://app.daily.dev/posts/jCTXL2462?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [dunglas/mercure: 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications](https://app.daily.dev/posts/fCuD3BJJJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I designed economies for $150M games—here&#39;s my ultimate handbook](https://app.daily.dev/posts/YZwPt7zzq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://app.daily.dev/posts/ox0WymfLJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
