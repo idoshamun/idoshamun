@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [Audible: Build seamless purchase experiences](https://app.daily.dev/posts/1PRngASe9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How personalization and recommendations enhance search and discovery](https://app.daily.dev/posts/jCTXL2462?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I designed economies for $150M games—here&#39;s my ultimate handbook](https://app.daily.dev/posts/YZwPt7zzq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Double-keyed Caching: How Browser Cache Partitioning Changed the Web](https://app.daily.dev/posts/ox0WymfLJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I am rich and have no idea what to do with my life](https://app.daily.dev/posts/q7jtyCdbf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Postgres UUIDv7 + per-backend monotonicity — brandur.org](https://app.daily.dev/posts/Pw98W186v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
