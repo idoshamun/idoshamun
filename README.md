@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [This Is How You&#39;re Eroding Accountability](https://app.daily.dev/posts/rA4x6DKiw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Is engineering strategy useful?](https://app.daily.dev/posts/QQjNvleSx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Audible: Build seamless purchase experiences](https://app.daily.dev/posts/1PRngASe9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I designed economies for $150M games—here&#39;s my ultimate handbook](https://app.daily.dev/posts/YZwPt7zzq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I am rich and have no idea what to do with my life](https://app.daily.dev/posts/q7jtyCdbf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Postgres UUIDv7 + per-backend monotonicity — brandur.org](https://app.daily.dev/posts/Pw98W186v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
