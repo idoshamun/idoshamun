@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale](https://app.daily.dev/posts/kyCJ4mm8I?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How I built an AI company to save my open source project](https://app.daily.dev/posts/aCXtcWc62?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Exploring for strategy.](https://app.daily.dev/posts/E1gdc7out?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [We Replaced Our React Frontend with Go and WebAssembly](https://app.daily.dev/posts/l83ZbkIGv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to influence query planning in Postgresql](https://app.daily.dev/posts/MPf5TAvCh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [No title](https://app.daily.dev/posts/ccCz4Le0Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
