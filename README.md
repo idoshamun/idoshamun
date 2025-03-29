@@ -2,7 +2,6 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/Rpg2vuY6v?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I see too many leaders choosing the reorg approach as a silver bullet.
 
 More often than not, that solution doesn&#39;t lead to the expected results.
@@ -11,4 +10,5 @@ In this article, I explore the pitfalls of reorgs and suggest alternative approa
 - [Why we ditched Next.js and never looked back](https://app.daily.dev/posts/zqdYUeCix?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Getting Airbnb’s Platform team to drive more impact: Reorganizing, defining strategy, and metrics](https://app.daily.dev/posts/xejpkP43z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Token-saving updates on the Anthropic API](https://app.daily.dev/posts/t7ak9mskx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Startup-CTO-Handbook/StartupCTOHandbook.md at main · ZachGoldberg/Startup-CTO-Handbook](https://app.daily.dev/posts/xnqiGpyR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
