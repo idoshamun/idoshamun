@@ -4,7 +4,7 @@
 <!-- BOOKMARKS:START -->
 - [SpacetimeDB](https://app.daily.dev/posts/WaGnnyo7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Net-Negative Cursor](https://app.daily.dev/posts/IFSFdqsbp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [The Role of Transparency in Leadership: How You can Build Trust and Healthy Chains of Command](https://app.daily.dev/posts/aNxC9S136?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Why do some engineering teams consistently outperform others?](https://app.daily.dev/posts/mX2QTPX4Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How to delegate?](https://app.daily.dev/posts/DLXaGe9eK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Anatomy Of A SQL Engine](https://app.daily.dev/posts/NWkuMpVV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [What Does &quot;use client&quot; Do? — overreacted](https://app.daily.dev/posts/kPY6s6dwR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Writing Cursor Rules with a Cursor Rule](https://app.daily.dev/posts/wuxvRSu1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
