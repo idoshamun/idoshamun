@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [SpacetimeDB](https://app.daily.dev/posts/WaGnnyo7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Net-Negative Cursor](https://app.daily.dev/posts/IFSFdqsbp?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Anatomy Of A SQL Engine](https://app.daily.dev/posts/NWkuMpVV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [What Does &quot;use client&quot; Do? — overreacted](https://app.daily.dev/posts/kPY6s6dwR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Writing Cursor Rules with a Cursor Rule](https://app.daily.dev/posts/wuxvRSu1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Believe it&#39;s going to work even though it probably won&#39;t](https://app.daily.dev/posts/2pfEDetm0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
