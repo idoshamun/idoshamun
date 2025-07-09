@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [No title](https://app.daily.dev/posts/V9C5EuIH5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Naming Software Teams](https://app.daily.dev/posts/BjMZeGPJi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [When a PM takes over engineering](https://app.daily.dev/posts/QOmqKatOj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Anatomy Of A SQL Engine](https://app.daily.dev/posts/NWkuMpVV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [What Does &quot;use client&quot; Do? — overreacted](https://app.daily.dev/posts/kPY6s6dwR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Writing Cursor Rules with a Cursor Rule](https://app.daily.dev/posts/wuxvRSu1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
