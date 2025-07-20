@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Foundation Model for Personalized Recommendation](https://app.daily.dev/posts/f4erqo0pt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building stronger engineering teams with aligned autonomy](https://app.daily.dev/posts/j7cJAGo5l?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Introducing Branching 2.0](https://app.daily.dev/posts/UqVz3YlFo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Landing an EM role in 2025](https://app.daily.dev/posts/qCJvKrtUM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [When a PM takes over engineering](https://app.daily.dev/posts/QOmqKatOj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Anatomy Of A SQL Engine](https://app.daily.dev/posts/NWkuMpVV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
