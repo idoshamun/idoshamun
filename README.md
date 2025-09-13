@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Disaggregation: A New Architecture for Cloud Databases](https://app.daily.dev/posts/IWGTFbo34?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [We traded blogs for black boxes, now we&#39;re paying for it](https://app.daily.dev/posts/IKK0QTswE?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/GhGefnaT5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/GpiU7bEcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/8WAmYAm93?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [mozilla-ai/any-llm: Communicate with an LLM provider using a single interface](https://app.daily.dev/posts/HgA5H7fv0?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [No title](https://app.daily.dev/posts/STTtxq0QK?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
