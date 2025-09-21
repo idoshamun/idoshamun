@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Designing at Scale: How to Evolve Products Without Losing Your Users](https://app.daily.dev/posts/hSBySRuAf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/BsIN6IsYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](https://app.daily.dev/posts/Rnk0y3DTY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Rules for creating good-looking user interfaces, from a developer](https://app.daily.dev/posts/7dvW9pYvR?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/FUXqkXGpx?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Magical systems thinking](https://app.daily.dev/posts/nOPTfmPUF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
