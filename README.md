@@ -4,7 +4,7 @@
 <!-- BOOKMARKS:START -->
 - [The Magic of Framing the Message](https://app.daily.dev/posts/jmpy5JRif?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How can I influence others without manipulating them?](https://app.daily.dev/posts/md4BtlUZW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [5 Things Managers Do That Leaders Never Would, According to Simon](https://app.daily.dev/posts/w6qPZzhvC?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Designing at Scale: How to Evolve Products Without Losing Your Users](https://app.daily.dev/posts/hSBySRuAf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/BsIN6IsYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](https://app.daily.dev/posts/Rnk0y3DTY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
