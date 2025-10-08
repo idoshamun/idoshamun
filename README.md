@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Development gets better with Age](https://app.daily.dev/posts/UL1IGOXgf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [React, HTMX, and TanStack/Start](https://app.daily.dev/posts/1gDiQPQnY?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How to Lead in a Room Full of Experts](https://app.daily.dev/posts/VQIc09T7f?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/GpiU7bEcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [To vibe or not to vibe](https://app.daily.dev/posts/F2qDANWLC?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How can I influence others without manipulating them?](https://app.daily.dev/posts/md4BtlUZW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
