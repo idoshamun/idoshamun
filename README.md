@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [What makes your resume stand out](https://app.daily.dev/posts/8hDY6WeB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [The Ten Commandments of a Good CTO](https://app.daily.dev/posts/VBfdWEYcg?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [*People* detangle a ball of mud](https://app.daily.dev/posts/WdCr1oAXs?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Metorial: The open source integration gateway for AI agents.](https://app.daily.dev/posts/wWmlPAXlt?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I went 30 days without using AI to code. Here&#39;s what happened.](https://app.daily.dev/posts/2aKOlMC68?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [No title](https://app.daily.dev/posts/db0rTxQIy?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
