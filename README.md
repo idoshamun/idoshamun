@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/rGSh4CIps?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The Compensation Commandments](https://app.daily.dev/posts/IRBuWHkWM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Token-Level Truth: Real-Time Hallucination Detection for Production LLMs](https://app.daily.dev/posts/h1vk69mEw?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [VACUUM Is a Lie &lpar;About Your Indexes&rpar;](https://app.daily.dev/posts/HT8lqfC6I?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Leading in Low-Trust Times](https://app.daily.dev/posts/e3o66LhPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Tiger Style](https://app.daily.dev/posts/VLdBAbtXj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
