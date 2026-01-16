@@ -3,8 +3,8 @@
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
 - [Place good startup bets](https://app.daily.dev/posts/ZBZXWSG4p?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Small projects, clear scope](https://app.daily.dev/posts/hgXYB6uoI?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/b0NnpQMJz?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Are you playing games you want to win?](https://app.daily.dev/posts/6rfSTY6wc?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/rGSh4CIps?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [The Compensation Commandments](https://app.daily.dev/posts/IRBuWHkWM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
