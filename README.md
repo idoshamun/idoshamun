@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [How Anthropic uses Claude in Marketing](https://app.daily.dev/posts/mnIChyG2H?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How StrongDM’s AI team build serious software without even looking at the code](https://app.daily.dev/posts/QeCjGcTtT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [7 Slack hacks for engineers and managers](https://app.daily.dev/posts/Y616Ha5w3?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Stay away from my trash!](https://app.daily.dev/posts/yYn1WUIAr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Agentic Engineering](https://app.daily.dev/posts/vu5lYpI1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Self-Improving Coding Agents](https://app.daily.dev/posts/j7Io1NSEj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
