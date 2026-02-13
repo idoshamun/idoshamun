@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [How Anthropic uses Claude in Marketing](https://app.daily.dev/posts/mnIChyG2H?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How StrongDM’s AI team build serious software without even looking at the code](https://app.daily.dev/posts/QeCjGcTtT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Agentic Engineering](https://app.daily.dev/posts/vu5lYpI1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Curiosity is the first-step in problem solving.](https://app.daily.dev/posts/gKfqysvsP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Should you include engineers in your leadership meetings?](https://app.daily.dev/posts/SXcmGQXEq?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Introducing Lix: A universal version control system](https://app.daily.dev/posts/Z9Guzkqh7?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Google Introduces Conductor, a Context-Driven Development Extension for Gemini CLI](https://app.daily.dev/posts/qjYQj2ENJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [The Claude Skills I Actually Use for DevOps](https://app.daily.dev/posts/KzyfkP2aj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Windsurf Tab v2: 25-75% more accepted chars with Variable Aggression](https://app.daily.dev/posts/JnM5CMFWh?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Why demand for code is infinite: How AI creates more developer jobs](https://app.daily.dev/posts/fJDcfgktn?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
