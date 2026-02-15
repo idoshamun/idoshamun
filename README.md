@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [What Agentic AI “Vibe Coding” In The Hands Of Actual Programmers / Engineers](https://app.daily.dev/posts/4XSVO818J?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Tech hiring in the AI era: Why everyone’s at zero](https://app.daily.dev/posts/rvPslld8G?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How Anthropic uses Claude in Marketing](https://app.daily.dev/posts/mnIChyG2H?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [How StrongDM’s AI team build serious software without even looking at the code](https://app.daily.dev/posts/QeCjGcTtT?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Agentic Engineering](https://app.daily.dev/posts/vu5lYpI1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Curiosity is the first-step in problem solving.](https://app.daily.dev/posts/gKfqysvsP?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
