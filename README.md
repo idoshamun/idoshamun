@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
-- [Why we deleted &lpar;most of&rpar; our MCP tools](https://app.daily.dev/posts/Yfq8BVbUr?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Feeling Fast, Delivering Slow: Why Your AI Adoption Still Hasn&#39;t Paid Off](https://app.daily.dev/posts/R8tkA8vfj?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [There’s a short window to get radically ahead by going AI-native. You need to act now.](https://app.daily.dev/posts/YW1TguJ8A?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Fastest Frontend Tooling for Humans &amp; AI](https://app.daily.dev/posts/1CyjIJfh9?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Harness Engineering](https://app.daily.dev/posts/l1sAhCwor?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [The uncomfortable truth about vibe coding](https://app.daily.dev/posts/mWw8bWEOD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
