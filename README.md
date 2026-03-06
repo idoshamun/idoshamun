@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [What Claude Code Actually Chooses — Amplifying](https://app.daily.dev/posts/S8O8N5GRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Nobody Gets Promoted for Simplicity](https://app.daily.dev/posts/zxfzhTQZV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [My Personal Skills for AI-assisted Node.js Development](https://app.daily.dev/posts/6QG5AUFFf?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The Resilience of the Core: Why the Death of SaaS is Premature in the Era of Vibe Coding](https://app.daily.dev/posts/pY58DrOUO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The third era of AI software development · Cursor](https://app.daily.dev/posts/fUnP1gQG1?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Local-first microVM sandbox for AI agents](https://app.daily.dev/posts/TqgsBjEoV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
