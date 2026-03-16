@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [95% of AI Projects Fail. Here&#39;s What That Really Means](https://app.daily.dev/posts/v37kxuyEB?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights](https://app.daily.dev/posts/ZRU9ZMfiU?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Management In The Age Of AI](https://app.daily.dev/posts/o9h36HY82?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Judgment and creativity are all you need.](https://app.daily.dev/posts/pRwojiJId?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Treating Prompts Like Code: A Content Engineer&#39;s AI Workflow](https://app.daily.dev/posts/7sac7kFdM?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Revenue addiction kills companies.](https://app.daily.dev/posts/lk5DKLHLS?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
