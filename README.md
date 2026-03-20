@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [The DCO Debate: Who Is Responsible for AI-Generated Code?](https://app.daily.dev/posts/gDXxQL8Zk?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [AI is making CEOs delusional](https://app.daily.dev/posts/k0fFYnxyV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [From npm to a Single Binary: Adopting Bun for the Tigris CLI](https://app.daily.dev/posts/QwG3SYE2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Comprehension Debt — the hidden cost of AI generated code.](https://app.daily.dev/posts/WGtHjMmeD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Management In The Age Of AI](https://app.daily.dev/posts/o9h36HY82?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Judgment and creativity are all you need.](https://app.daily.dev/posts/pRwojiJId?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
