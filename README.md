@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [My heuristics are wrong. What now?](https://app.daily.dev/posts/yBhrgjOT4?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Productivity and Entropy](https://app.daily.dev/posts/hisjcCaKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [The DCO Debate: Who Is Responsible for AI-Generated Code?](https://app.daily.dev/posts/gDXxQL8Zk?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [AI is making CEOs delusional](https://app.daily.dev/posts/k0fFYnxyV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [From npm to a Single Binary: Adopting Bun for the Tigris CLI](https://app.daily.dev/posts/QwG3SYE2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [Comprehension Debt — the hidden cost of AI generated code.](https://app.daily.dev/posts/WGtHjMmeD?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
