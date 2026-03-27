@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Cog — Cognitive Architecture for Claude Code](https://app.daily.dev/posts/ofsRg9BOi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [We Rebuilt Zeta from the Training Data Up — Zed&#39;s Blog](https://app.daily.dev/posts/sGRScAvMF?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Worktrunk — Git Worktree Manager for AI Agent Workflows](https://app.daily.dev/posts/edzkcViP6?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Death of the IDE?](https://app.daily.dev/posts/7sUJFgexb?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [I copied a prompt and built a management system in a week](https://app.daily.dev/posts/xhUiGV0WX?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How Stripe rolled out a consistent Cursor experience for 3,000 engineers · Cursor](https://app.daily.dev/posts/rpATLnpxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
