@@ -2,9 +2,9 @@
 
 # 📚 Recent bookmarks
 <!-- BOOKMARKS:START -->
+- [Encoding Your Domain Expert: The Context Layer Behind Spotify&#39;s Data Assistant](https://app.daily.dev/posts/p0JRb8pYv?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Designing the AI‑native engineering organization with 1Password, Microsoft and Atlassian](https://app.daily.dev/posts/0VJh5lGNO?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Doing nothing at work](https://app.daily.dev/posts/M7GEdJkEE?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [Building Pi With Pi](https://app.daily.dev/posts/yqGe5KMKW?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 - [No title](https://app.daily.dev/posts/0yW6hr7XV?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
-- [How I run multiple $10K MRR companies on a $20/month tech stack](https://app.daily.dev/posts/KfGbFyX0z?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
 <!-- BOOKMARKS:END -->
